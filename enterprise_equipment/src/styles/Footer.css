@@ -1,0 +1,27 @@
+/* Footer.css */
+
+.footer-row {
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 20px 0;
+}
+
+h5 {
+  color: #ffffff;
+}
+
+p {
+  color: #cccccc;
+}
+
+a {
+  color: #ffffff;
+}
+
+a:hover {
+  text-decoration: underline;
+}

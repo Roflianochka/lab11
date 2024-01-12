@@ -1,0 +1,27 @@
+.schedule-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.schedule-table th,
+.schedule-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.schedule-cell {
+  min-height: 60px;
+}
+
+.commission {
+  font-weight: bold;
+}
+
+.details {
+  color: #555;
+}
+
+.schedule-heading {
+  color: #333;
+}

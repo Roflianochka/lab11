@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Коммисия 1",
+    "members": [
+      {
+        "id": 101,
+        "img": "https://i.guim.co.uk/img/media/3f34fc53cbb56df32dd8d83be7e75c1eb19d3caf/0_371_8832_5300/master/8832.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=a4796fed3b6e970ef9bbccffbe4202ed",
+        "name": "John",
+        "surname": "Doe",
+        "phone": "123-456-7890",
+        "experience": "5 лет"
+      },
+      {
+        "id": 102,
+        "img": "https://i.guim.co.uk/img/media/b0833fd0df4077e668fa14cb031bf797a18e5677/0_1001_5792_3475/master/5792.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=5e0027a6b6bf9dd6c8baf5217aa8cf5b",
+        "name": "Jane",
+        "surname": "Smith",
+        "phone": "987-654-3210",
+        "experience": "3 года"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Коммисия 2",
+    "members": [
+      {
+        "id": 201,
+        "img": "https://www.turn-on.de/media/cache/article_images/media/cms/2017/02/ragnboneman.jpg?356188",
+        "name": "Bob",
+        "surname": "Johnson",
+        "phone": "555-123-4567",
+        "experience": "8 лет"
+      },
+      {
+        "id": 202,
+        "img": "https://privatclub-berlin.de/wp-content/uploads/2016/08/RagnBone-Man-Approved-Press-Shot-Credit-Danny-North_lores-1960x2612.jpg",
+        "name": "Alice",
+        "surname": "Williams",
+        "phone": "111-222-3333",
+        "experience": "2 года"
+      }
+    ]
+  }
+]

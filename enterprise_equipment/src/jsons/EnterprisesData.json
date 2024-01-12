@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "Предприятие 1",
+    "img": "https://sdelanounas.ru/i/s/d/e/sdelanounas.ru/i/c/2/r/c2RlbGFub3VuYXMucnUvaS9jLzIvZi9jMkZzWVhaaGRDMXVaV1owWld0b2FXMHVaMkY2Y0hKdmJTNXlkUzlmWVdndmFXMW5MMDlJTFdveU1XMUxUek0yV0hvdFRXRnJTMmxmU1ZFOWN6RXhNREFfWDE5cFpEMHhORGMwTlRRPS5qcGc_X19pZD0xNDc3MzM=.jpg?__id=150856.jpg",
+    "tools": [
+      {
+        "id": 101,
+        "name": "Молотки"
+      },
+      { "id": 102, "name": "Отбойники" },
+      { "id": 103, "name": "Шуруповерты" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Предприятие 2",
+    "img": "https://sdelanounas.ru/i/c/2/r/c2RlbGFub3VuYXMucnUvaS9kL24vbi9kbk5zZFdndWNuVXZkWEJzYjJGa0wzSmxjMmw2WlY5allXTm9aUzlwWW14dlkyc3ZaVGhsTHpjMk1GODNOakJmTUM4NGNXWnZOV2wzTkdSbGFYRTViV0UzZEd4b1lXeDVOVGt5Ykd4c2MyOTNaQzVxY0djX1gxOXBaRDB4TkRZek1qTT0uanBnP19faWQ9MTQ2NzE0.jpg",
+    "tools": [
+      { "id": 201, "name": "Отбойники" },
+      { "id": 202, "name": "Каски" },
+      { "id": 203, "name": "Отвертки" }
+    ]
+  }
+]
